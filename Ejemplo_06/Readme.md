@@ -1,4 +1,4 @@
-## Ejemplo 6. Loops: For
+# Ejemplo 6. Loops: For
 
 #### Este ejemplo elevará al cuadrado las primeros 10 entradas de un vector generado aleatóriamente de 20 entradas 
 ```R
