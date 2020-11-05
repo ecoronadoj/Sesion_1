@@ -1,4 +1,4 @@
-# Ejemplo 6. Loops y pseudocódigo: For
+# Ejemplo 6. Loops y pseudocódigo: For, if-else
 
 #### Este ejemplo elevará al cuadrado las primeros 10 entradas de un vector generado aleatóriamente de 20 entradas 
 ```R
@@ -15,8 +15,25 @@ for(i in 1:10) {
   print(wsq[i])
 }
 ```
+Los bucles WHILE comienzan comprobando una condición. Si esta es verdadera, entonces se entra al cuerpo del bucle. Una vez completada una ejecución de este bloque, se comprueba la condición nuevamente y así sucesivamente hasta que la comprobación de la condición de falso.
 
-#### Pseudocódigo 
+```
+while(<condicion>) {
+  # código
+  ...
+}
+```
+Ejemplo:
+
+```R
+count <- 0
+while(count < 10) {
+  print(count)
+  count <- count + 1
+}
+```
+
+#### Pseudocódigo para IF - ELSE
 ```R
 if(<condicion>) {
   ## bloque de código
