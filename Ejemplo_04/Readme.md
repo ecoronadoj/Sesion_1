@@ -18,7 +18,10 @@ read.csv("../Bedu/Data/bestsellers with categories.csv")
 ```RR
 amazon.books <- read.csv("../Bedu/Data/bestsellers with categories.csv")
 ```
-
+También se puede leer el fichero directamente desde una URL
+```R
+amazon.books.url <- read.csv("tsellers with categories.csv")
+```
 #### Calculamos la dimensión de la base de datos
 ```R
 dim(amazon.books)
