@@ -1,5 +1,5 @@
 ## Ejemplo 5. Instalar packages y leerlos. 
-###Esto es útil ya que agrega funcionalidades a R, ya sea para graficar o generar análisis con diversas técnicas.
+Esto es útil ya que agrega funcionalidades a R, ya sea para graficar o generar análisis con diversas técnicas.
 
 #### Se instalan de la siguiente manera
 
