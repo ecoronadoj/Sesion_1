@@ -1,5 +1,5 @@
 
-####   EJEMPLO 1. Tipos de datos y Vectores
+##   EJEMPLO 1. Tipos de datos y Vectores
 
 ``` R
 var.hola <- "Hola Mundo"
