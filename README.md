@@ -1,11 +1,13 @@
-# Sesion_1
-Repositorio de la nueva sesión 1. BEDU 
+# Sesion1
 
+####Durante el transcurso de esta sesión serás capaz de desarrollar las siguientes capacidades de R 
 
-########################################################################
-########################    SESIÓN 1. BEDU      ########################
-########################      Objetos en R      ########################
-########################################################################
+-Tipos de datos y objetos (vectores, df, matrices), en R
+-cbind, rbind, apply
+-Descarga y lectura de DataSets.
+-Install.packages, library
+-Pseudocodigo
+-Loops
 
 
 ####   EJEMPLO 1
