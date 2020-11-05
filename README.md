@@ -6,8 +6,9 @@
 - cbind, rbind, apply
 - Descarga y lectura de DataSets.
 - Install.packages, library
-- Pseudocodigo
 - Loops
+- Pseudocodigo
+
 
 ##### Aquí encontraras los ejemplos de la sesión 1.
 - [Ejemplo 1](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_01)
