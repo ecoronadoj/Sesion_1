@@ -37,7 +37,7 @@ if(<condition1>) {
   ## otro bloque de código
 }
 ```
-De este modo estamos asignando un valor a una variable en función del valor de otra. Lo que se debe tener en cuenta es que la condición debe retornar un valor TRUE o FALSE.
+Ejemplo
 ```R
 x <- runif(1, 0, 10) ## creamos un nro aleatorio entre 0 y 10
 if(x > 5) {
@@ -46,3 +46,4 @@ if(x > 5) {
   y <- FALSE
 }
 ```
+De este modo estamos asignando un valor a una variable en función del valor de otra. Lo que se debe tener en cuenta es que la condición debe retornar un valor TRUE o FALSE.
