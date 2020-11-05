@@ -5,7 +5,7 @@
 w <- rnorm(20)              
 print("Este loop calcula el cuadrado de los 10 primeros elementos del vector w")
 ```
-#### inicializando la varialbe `wsq`
+inicializando la varialbe `wsq`
 ```R
 wsq <- 0
 
