@@ -1,4 +1,4 @@
-# Sesion1
+# Sesion 1. Introducción a R y Software necesario. (Github, Tipos de Datos)
 
 #### Durante el transcurso de esta sesión serás capaz de desarrollar las siguientes capacidades de R 
 
