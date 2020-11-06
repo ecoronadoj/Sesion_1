@@ -24,4 +24,5 @@ Tendrás las nociones básicas para poder manipular DataSets, poder realizar lec
 ##### Retos de la sesión 1.
 - [Reto 1](https://github.com/ecoronadoj/Sesion_1/tree/main/Reto_1)
 - [Reto 2]()
+- [Reto 3]()
 
