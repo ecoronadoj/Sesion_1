@@ -14,7 +14,7 @@ Tendrás las nociones básicas para poder manipular DataSets, poder realizar lec
 
 
 ##### Aquí encontraras los ejemplos de la sesión 1.
-- [Ejemplo 1](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_01)
+- [Ejemplo 1](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_01) Tipos de datos y Vectores
 - [Ejemplo 2](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_02)
 - [Ejemplo 3](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_03)
 - [Ejemplo 4](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_04)
