@@ -19,10 +19,6 @@
 - [Ejemplo 6](https://github.com/ecoronadoj/Sesion_1/tree/main/Ejemplo_06)
 
 ##### Retos de la sesión 1.
-- Reto 1
-- Reto 2
-- Reto 3
-- Reto 4
-- Reto 5
-- Reto 6
+- [Reto 1](https://github.com/ecoronadoj/Sesion_1/tree/main/Reto_1)
+- [Reto 2]()
 
