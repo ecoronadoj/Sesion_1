@@ -1,6 +1,18 @@
 
 ##   EJEMPLO 1. Tipos de datos y Vectores
 
+## Objetivo
+- Poder determinar el tipo de variables y objetos que se utilizan
+- Creación y manipulación de objetos (vectores, matrices, data frames, entre otros)
+- Operaciones básicas 
+
+## Requisitos
+- Tener previamente instalados R y RStudio
+- Haber leido y comprendido el Prework
+
+## Desarrollo
+Se tiene una serie de códigos los cuales deberán irse corriento línea a línea, recordar que siempre se ejecuta una línea presionando **Ctrl + Enter**
+
 ``` R
 var.hola <- "Hola Mundo"
 var.number <- 5
