@@ -4,7 +4,7 @@
 
 netflix <-read.csv("https://raw.githubusercontent.com/ecoronadoj/Sesion_1/main/Data/netflix_titles.csv")
 
-#dimensión del data frame
+#dimensiÃ³n del data frame
 dim(netflix)
 class(netflix)
 
@@ -13,5 +13,5 @@ class(netflix)
 net.2015 <- netflix[c(netflix$release_year > 2015), ]
 
 #escritura del archivo
-write.csv(net.seas, "res.netflix.csv")
+write.csv(net.2015, "res.netflix.csv")
   
